@@ -1,0 +1,78 @@
+.section-selected-project {
+  width: 100%;
+  margin-top: 800px;
+  gap: 30px;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    z-index: 2;
+
+    &::before {
+      content: "";
+      position: absolute;
+      width: 50px;
+      height: 10px;
+      background-color: $primary;
+      margin-top: 23px;
+      z-index: -1;
+    }
+  }
+
+  .projects-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    .project {
+      margin: 24px;
+      background-color: $card;
+      padding: 16px 32px;
+      a {
+        text-decoration: none;
+        h3 {
+          font-size: 1.3rem;
+        }
+      }
+    }
+  }
+}
+
+.offer {
+  margin: 30px;
+  background-color: $card;
+  padding: 16px 32px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  p {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  .link {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    a {
+      margin-top: 10px;
+      padding: 16px 32px;
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 1.2rem;
+      border: 1px solid $primary;
+      &:hover {
+        background-color: $primary;
+      }
+      &.btn-email {
+        background-color: $primary;
+
+        &:hover {
+          background-color: $primary-hover;
+        }
+      }
+    }
+  }
+}
