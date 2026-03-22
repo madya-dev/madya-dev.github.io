@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @madya-dev
+- 👋 Hi, I’m Madya Santosa
 - 👀 I’m interested in Software Engineering, UI/UX Design and UX Research
 - 🌱 I’m currently learning web development
 
