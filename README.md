@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @madya-dev
-- 👀 I’m interested in Software Engineering, UI/UX Design and UX Research
-- 🌱 I’m currently learning web development
-
-<!---
-madya-dev/madya-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/madyasantosa"><img src="https://api.daily.dev/devcards/ad3b9667cd594903ba75f6328ce466c5.png?r=7hu" width="400" alt="Madya Santosa's Dev Card"/></a>
