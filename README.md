@@ -1,8 +1,40 @@
-<h1 align="center">Hi 👋, I'm Madya Santosa</h1>
-<h3 align="center">A passionate software engineer from Bali, Indonesia</h3>
+# Madya Santosa — Personal Website
 
-- 🌱 I’m currently learning **software engineering**
+Personal portfolio site for **Madya Santosa**, a software engineer specializing in web platform development in the fintech space.
 
-- 💬 Ask me about **software engineering**
+**Live:** [madya-dev.github.io](https://madya-dev.github.io)
 
-- 📫 How to reach me **arimadyasantosa@gmail.com**
+---
+
+## About
+
+Built with vanilla HTML, CSS, and JavaScript — no frameworks, no build step, no dependencies. Just three files served directly via GitHub Pages.
+
+## Tech Stack
+
+- SvelteKit, TypeScript, TailwindCSS
+- React, Next.js, Node.js
+- Go, Docker
+
+## Structure
+
+```
+personal-website/
+├── index.html   # Markup
+├── styles.css   # All styles
+└── main.js      # All scripts
+```
+
+## Experience
+
+| Period             | Role                            | Company                |
+| ------------------ | ------------------------------- | ---------------------- |
+| Mar 2026 – Present | Founding Web Engineer           | Mopay                  |
+| Jan 2025 – Present | Software Engineer, Web Platform | Mobee Digital Exchange |
+| Mar 2022 – 2025    | Freelance Software Engineer     | Self-employed          |
+
+## Contact
+
+- Email: arimadyasantosa@gmail.com
+- GitHub: [github.com/madya-dev](https://github.com/madya-dev)
+- LinkedIn: [linkedin.com/in/madyasantosa](https://linkedin.com/in/madyasantosa)
