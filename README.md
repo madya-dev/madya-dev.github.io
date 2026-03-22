@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madya-dev
-- 👀 I’m interested in Software Engineering, UI/UX Design, UX Research
+- 👀 I’m interested in Software Engineering, UI/UX Design and UX Research
 - 🌱 I’m currently learning web development
 
 <!---
